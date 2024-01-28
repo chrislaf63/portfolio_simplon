@@ -1,0 +1,8 @@
+.header-box{
+    background: url('../img/headers/CV-header.png');
+    position: relative;
+    height: 25vh;
+    padding-top: 150px;
+    padding-bottom: 130px;
+    z-index: 1;
+}

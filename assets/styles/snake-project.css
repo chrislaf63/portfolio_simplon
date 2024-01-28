@@ -1,0 +1,32 @@
+.header-box{
+    background: url('../img/headers/snake-header.png');
+    position: relative;
+    height: 25vh;
+    padding-top: 150px;
+    padding-bottom: 130px;
+    z-index: 1;
+}
+
+.button-game{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-game__link{
+    border: 2px solid rgb(201, 201, 43);
+    padding: 6px 15px;
+}
+
+.button-game__link:hover{
+    background-color: rgb(201, 201, 43);
+}
+
+.button-game a{
+    text-decoration: none;
+    color: rgb(201, 201, 43);
+}
+
+.button-game__link:hover a{
+    color : rgb(31,34,53);
+}
